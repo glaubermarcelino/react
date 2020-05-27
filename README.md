@@ -1,2 +1,2 @@
-# reat
+# react
 Estudos React
