@@ -13,7 +13,8 @@ import Pai from "./components/comunicacao/direta/Pai";
 import Super from "./components/comunicacao/indireta/Super";
 import Input from "./components/form/Input";
 import Contador from "./components/contador/Contador";
-import MegaSena from "./components/comunicacao/megasena/MegaSena";
+import MegaSena from "./components/megasena/MegaSena";
+import ApiIntegracao from "./components/integracao/ApiIntegracao";
 
 export default (props) => {
   const [value, setValue] = useState(false);
@@ -69,6 +70,9 @@ export default (props) => {
         </Card>
         <Card titulo="#11 - Gerador MegaSena"color="#260126">
           <MegaSena qtddeNumero={8}></MegaSena>
+        </Card>
+        <Card titulo="#12 - Consumindo API Github"color="#83AA30">
+          <ApiIntegracao></ApiIntegracao>
         </Card>
       </div>
     </div>
