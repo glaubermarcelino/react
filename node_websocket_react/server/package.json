@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Call Center React,Node and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react","nodejs","socket","javascript"],
+  "author": "Glauber Marcelino da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "socket.io": "^2.3.0"
+  }
+}
