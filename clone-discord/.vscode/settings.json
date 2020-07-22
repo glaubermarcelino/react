@@ -1,0 +1,9 @@
+{
+    "colorize.colorize_only_visible_beta": true,
+    "colorize.colorized_variables": [
+        "CSS","LESS","SASS","STYLUS"
+    ],
+    "colorize.include": [
+    true
+    ]
+}
