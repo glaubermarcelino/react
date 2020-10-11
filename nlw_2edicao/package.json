@@ -1,0 +1,9 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Projeto web de react next level week 2 edição",
+  "main": "index.js",
+  "repository": "https://github.com/glaubermarcelino/react.git",
+  "author": "Glauber Marcelino da Silva",
+  "license": "MIT"
+}
