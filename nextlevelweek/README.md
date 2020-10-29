@@ -1,15 +1,11 @@
-# Exemplo em ReactJS
-## Lista de nomes de Pokemons com paginação
-Neste exemplo foi utilizado a [Pokemon API](https://pokeapi.co/api/v2/pokemon)
-e foram abordados o uso de Hooks como: 
-[ContextAPI](https://pt-br.reactjs.org/docs/context.html),
-[useState](https://pt-br.reactjs.org/docs/hooks-state.html),
-[useEffects](https://pt-br.reactjs.org/docs/hooks-effect.html), como também [axios](https://github.com/axios/axios) e também a criação de meu proprio hook denominado usePokemonContext.
-
-![Pokemon](https://github.com/glaubermarcelino/pokedex/blob/main/pikachu.png)
+# Projeto desenvolvido na Next Level Week (RocketSeat)
+## Ecoleta
+Neste exemplo foi utilizado a diversas abordagens em multiplataforma(web e Mobile).
 
 ### `Screens`
-![Aplicação Rodando](https://github.com/glaubermarcelino/pokedex/blob/main/listPokedex.png)
+![Página Inicial](https://github.com/glaubermarcelino/react/blob/master/nextlevelweek/shots/index.png)
+![Cadastro](https://github.com/glaubermarcelino/react/blob/master/nextlevelweek/shots/Cadastro.png)
+![Concluído](https://github.com/glaubermarcelino/react/blob/master/nextlevelweek/shots/Concluido.png)
 
 In the project directory, you can run:
 
