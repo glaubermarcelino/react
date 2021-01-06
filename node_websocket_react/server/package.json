@@ -10,7 +10,7 @@
   "author": "Glauber Marcelino da Silva",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "socket.io": "^2.3.0"
   }
 }
